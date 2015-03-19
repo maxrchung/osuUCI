@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Officers - osu! UCI</title>
+    <link rel="icon" href="../resources/favicon.ico">
+    <link rel="shortcut icon" href="../resources/favicon.ico">
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" media="screen and (min-device-width: 800px)" type="text/css" href="../resources/theme.css">
+    <link rel="stylesheet" media="screen and (max-device-width: 799px)" type="text/css" href="../resources/mobile.css">
+  </head>
+
+  <body>
+    <div class="buttons">
+      <table>
+	<tr>
+	  <td><a href="../home" class="button"><img alt="Home" title="Home" src="../resources/iconHome.png"/></a></td>
+	  <td><a href="../officers" class="button selected"><img alt="Officers" title="Officers" src="../resources/iconOfficers.png"/></a></td>
+	  <td><a href="../about" class="button"><img alt="About" title="About" src="../resources/iconAbout.png"/></a></td>
+	  <td><a href="../contact" class="button"><img alt="Contact" title="Contact" src="../resources/iconContact.png"/></a></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <h2>Officers</h2>
+      <p>Meet your fellow officers in charge of the club:</p>
+    </div>
+
+    <div class="showcase">
+      <table>
+	<tr>
+	  <td>
+	    <img src="maxChung.png"/>
+	  </td>
+	  <td>
+	    <p>Max "Shrackner" Chung</p>
+	    <p>3rd year, Computer Game Science major</p>
+	    <p>(Nov. 2014 - Present)</p>
+	    <a href="https://www.facebook.com/maxrchung" class="button"><img alt="Facebook" title="Facebook" src="../resources/iconFacebook.png"/></a>
+	    <a href="mailto:maxrchung@gmail.com" class="button"><img alt="Mail" title="Mail" src="../resources/iconGMail.png"/></a>
+	    <a href="https://osu.ppy.sh/u/1472763"><img alt="osu!" title="osu!" src="../resources/iconOsu.png"/></a>
+	    <a href="http://maxrchung.com/" class="button"><img alt="Website" title="Website" src="../resources/iconMax.png"/></a>
+	  </td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>What's up everyone. I'm Wax Chug da Gwad. Some of you guys may know me as Max Chung, and some fewer of you know me by Shrackner. I started playing osu! 3 years ago, but have only been playing it on-and-off as a side game, with months of break in between. It wasn't until last fall quarter that Justin, Brad, and I randomly met up and found out we all played osu! Thinking it as a good chance for me to stay committed to the game, meet new people, and try something new, I took the lead in starting up this club and bringing it to where it is now. It's been an absolute blast playing the game with everyone so far, and I hope we grow in numbers and do greater things in the future!</p>
+      <p>
+      
+    </div>
+  </body>
+</html>

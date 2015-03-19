@@ -41,7 +41,6 @@ div.buttons a.button {
     background-color: none;
     border-style: solid;
     border-width: 0.15em;
-    border-color: none;
     border-radius: 100%;
     border-color: transparent;
 }
@@ -81,25 +80,25 @@ hr {
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 1.5em;
     font-weight: bold;
-    margin-bottom: -20px;
+    margin-bottom: -1em;
     color: black;
 }
 
 p {
-    font-size: 19px;
-    line-height: 24px;
-    padding-top: 4px;
-    padding-bottom: 4px;
+    font-size: 1.2em;
+    line-height: 1.5em;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
     color: black;
 }
 
 .mid {
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 20px;
-    width: 650px;
+    margin-bottom: 1.5em;
+    width: 40em;
 }
 
 .mid iframe {
@@ -123,91 +122,91 @@ p {
 img {
     display: block;
     text-align: center;
-    border-radius: 5px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-    margin-left: -2px;
+    border-radius: 1em;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
     margin-left: auto;
     margin-right: auto;
 }
 
 .mid p.caption {
-    margin-top: -24px;
+    margin-top: -1.5em;
     text-align: center;
 }
 
-.mid hr {
-    height: 1px;
-    width: 650px;
-    background-color: transparent;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 16px;
-    margin-bottom: 16px;
-    border: 0px;
-}
-
-.game {
-    margin-left: -315px;
-    width: 1280px;
-    text-align: center;
+.mid p.signature {
+    margin-top: -1.5em;
+    text-align: right;
 }
 
 .showcase {
     margin-left: auto;
     margin-right: auto;
-    width: 650px;
-    margin-bottom: 20px;
+    width: 40em;
 }
 
 .showcase > table {
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
-    width: 650px;
+    margin-bottom: -2.5em;
+    margin-top: -1.5em;
+    width: 40em;
     border-collapse: collapse;
 }
 
-.showcase td {
-    width: 325px;
-    height: 150px;
+.showcase tr > td:first-child {
+    width: 12em;
+    height: 15em;
 }
 
-.showcase img {
+.showcase tr > td:nth-child(2) {
+    width: 28em;
+    height: 15em;
+}
+
+.showcase tr > td:first-child img {
     display: block;
-    width: 100px;
-    height: 100px;
-    border-radius: 5px;
+    width: 12em;
+    height: 12em;
+    border-radius: 1em;
 }
 
 .showcase tr {
     display: block;
-    border-bottom: 2px solid black;
     position: relative;
 }
 
-.showcase tr:last-child {
-    border-bottom: 0px;
-}
-
 .showcase p {
-    padding: 0px 25px 0px 25px;
-    line-height: 5px;
+    padding: 0 25px 0 25px;
+    line-height: 0.5em;
 }
 
 .showcase tr > td:nth-child(2) > p:first-child {
-    font-style: italic;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 1.5em;
 }
 
-.showcase tr > td:nth-child(2) > p:nth-child(2) {
-    margin-top: -5px;
-    margin-bottom: 20px;
+.showcase tr > td:nth-child(2) img {
+    display: inline;
+    width: 5em;
+    height: 5em;
+    margin: auto;
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 0.15em;
+    border-radius: 100%;
+    border-color: transparent;
 }
 
-.showcase tr > td:nth-child(2) > p:last-child {
-    line-height: 24px;
+.showcase tr > td:nth-child(2) > a:nth-child(4) img {
+    margin-left: 1.5em;
+    margin-right: 0.25em;
+}
+
+.showcase tr > td:nth-child(2) img:hover {
+    border-color: #d7eff5;
 }
 
 .archive {
@@ -242,25 +241,15 @@ img {
 
 .archive p {
     text-align: center;
-    font-size: 24px;
-    font-weight:bold;
-    padding: 0px 25px 0px 25px;
-    line-height: 5px;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 0 1.5em 0 1.5em;
+    line-height: 0.25em;
 }
 
 a {
     position:relative;
     z-index: 2;
-}
-
-.showcase a.button {
-    position: absolute;
-    width: 668px;
-    height: 153px;
-    margin-left: -16px;
-    margin-top: -25px;
-    display: block;
-    z-index: 1;
 }
 
 .archive a.button {
@@ -273,23 +262,12 @@ a {
     z-index: 1;
 }
 
-img.noBorder {
-    border: 0px;
-    border-radius: 0px;
-}
-
-img.noBorderSlice {
-    border: 0px;
-    width: 110px;
-    height: 110px;
-}
-
 img.widthConstrain {
-    width: 650px;
+    width: 40em;
 }
 
 img.heightConstrain {
-    height: 650px;
+    height: 40em;
 }
 
 img.banner {
