@@ -10,6 +10,7 @@ html {
     background-repeat: repeat;
     background-position: center;
     background-size: 67.5em 67.5em;
+    font-size: 150%;
 }
 
 body {
@@ -236,7 +237,7 @@ img.heightConstrain {
 
 img.banner {
     position: absolute;
-    height: 85%;
+    width: 85%;
     top:0; bottom: 0; left: 0; right: 0;
     margin: auto;
 }
