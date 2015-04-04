@@ -5,8 +5,8 @@
     <link rel="icon" href="../resources/favicon.ico">
     <link rel="shortcut icon" href="../resources/favicon.ico">
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" media="screen and (min-device-width: 800px)" type="text/css" href="../resources/theme.css">
-    <link rel="stylesheet" media="screen and (max-device-width: 799px)" type="text/css" href="../resources/mobile.css">
+    <link rel="stylesheet" media="screen and (min-device-width: 800px)" type="text/css" href="resources/theme.css">
+    <link rel="stylesheet" media="screen and (max-device-width: 799px)" type="text/css" href="resources/mobile.css">
   </head>
 
   <body>
@@ -27,64 +27,17 @@
       <img class="widthConstrain" src="groupPhoto.jpg"/>
       <p class="caption">Meet the cult!</p>
       <h2>Meetings</h2>
-      <p>We play online on Saturdays from 7-10PM PST. Next quarter's in-person meetings are to be decided while we wait for UCI to give us a room.</p>
+      <p>We play online on Saturdays from 7-10PM PST. And for this spring quarter, we'll be playing in-person on Tuesdays from 7-9PM PST. Bring your own equipment and find us in UCI at SSL 206!</p>
+    </div>
+    <img src="ssl206.png"/>
+
+    <div class="mid">
       <h2>Lobbies</h2>
-      <p>During each play session we make multiplayer lobbies in osu! to play in. Given enough players, we try and split into at least two groups to accommodate a wide spectrum of new to experienced players. Find us online:</p>
+      <p>During each play session we make multiplayer lobbies in osu! to play in. Given enough players, we try and split into at least two groups to accommodate a wide spectrum of new to experienced players. Look us up in multiplayer:</p>
       <ul>
 	<li>Lobby name: osu! UCI (Hard/Easy)</li>
 	<li>Password: maxisagod</li>
       </ul>
-
-
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-      <p>asdf</p>
-
     </div>
   </body>
 </html>
