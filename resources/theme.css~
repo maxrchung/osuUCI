@@ -24,8 +24,7 @@ div.buttons
 }
 
 div.buttons > table {
-    border-collapse: separate;
-    border-spacing: 0.5em;
+    border-collapse: collapse;
     margin-left: auto;
     margin-right: auto;
     margin-top: 0;
@@ -37,8 +36,7 @@ div.buttons a.button {
     text-align: center;
     width: 5em;
     height: 5em;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0.25em;
     border-style: solid;
     border-width: 0.15em;
     border-radius: 100%;
@@ -53,14 +51,17 @@ div.buttons a.button:hover {
     border-color: #d7eff5;
 }
 
-div.links
-{
+div.links {
     position: absolute;
     margin-left: auto;
     margin-right: auto;
     bottom: 0;
     text-align: center;
     width: 100%;
+}
+
+div.links tr {
+    display: inline-block;
 }
 
 h2 {
